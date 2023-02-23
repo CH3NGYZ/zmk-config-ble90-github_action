@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: nrf52840_m2
-    shield: boardsource5x12
+  - board: ble_90
+    shield: ble_90
