@@ -14,4 +14,3 @@
 ---
 include:
   - board: ble_90
-    shield: ble_90
